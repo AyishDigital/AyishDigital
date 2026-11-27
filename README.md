@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner Bergerak -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Aku+Ayish+(AyishDigital);Building+Web+Apps+%26+Cloud+Automation;Exploring+Python%2C+Cloudflare+Workers+%26+IPTV" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Aku+Ayish+(AyishDigital);Building+Web+Apps+%26+Cloud+Automation;Exploring+Python%2C+Cloudflare+Workers" alt="Typing SVG" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=AyishDigital&label=Profile%20Views&color=0e75b6&style=flat-square" alt="AyishDigital" />

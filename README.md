@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Header Banner Bergerak -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Are_Ku_Ayish+(AyishDigital);Building+Web+Apps+%26+Cloud+Automation;Exploring+Python%2C+Cloudflare+Workers+%26+IPTV" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Aku+Ayish+(AyishDigital);Building+Web+Apps+%26+Cloud+Automation;Exploring+Python%2C+Cloudflare+Workers+%26+IPTV" alt="Typing SVG" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=AyishDigital&label=Profile%20Views&color=0e75b6&style=flat-square" alt="AyishDigital" />
-  <img src="https://img.shields.io/badge/Focus-Web%20%26%20Automation-00FF88?style=flat-square&logo=githubactions&logoColor=black" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Web%20%26%20Automation-00E5FF?style=flat-square&logo=githubactions&logoColor=black" alt="Focus" />
   <img src="https://img.shields.io/badge/Location-Malaysia-blue?style=flat-square" alt="Location" />
 </p>
 
@@ -16,7 +16,6 @@
 ### 🧑‍💻 Tentang Saya (*About Me*)
 
 * 🌱 Sedang mendalami **JavaScript, Python, Cloudflare Workers, & GitHub Actions**
-* ⚙️ Membina sistem automasi, EPG XMLTV, dan aplikasi web interaktif di **[Ayish Store](https://ayishstore.com)**
 * 🤝 Terbuka untuk perkongsian & bantuan berkaitan **IPTV / EPG & Web Development**
 * ⚡ Moto: *Be Happy Always & Keep Learning*
 
@@ -42,8 +41,8 @@
 ### 📊 Statistik GitHub (*GitHub Stats*)
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AyishDigital&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00D8FF" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyishDigital&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF88" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AyishDigital&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00FF88" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyishDigital&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF" alt="Top Languages" />
 </div>
 
 ---
